@@ -1,3 +1,3 @@
 # Animated indicator
 
-Widget that renders a line graph using a RenderObjectgit 
+Widget that renders a line graph using a RenderObject
